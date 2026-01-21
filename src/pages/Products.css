@@ -1,0 +1,25 @@
+.buttonStyle {
+  background-color: #4861a6;
+  border: none;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 50px 0px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.tableStyle {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+.tableStyle th, .tableStyle td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
